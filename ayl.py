@@ -9,6 +9,9 @@ import uuid
 from datetime import datetime, timedelta
 import threading
 
+from fastapi import FastAPI
+
+app = FastAPI()   # <ــــ این خط باید حتماً باشه و اسم متغیر دقیقاً "app" باشه
 # Configuration
 BOT_TOKEN = "7925127595:AAGQReL1FBeqsKNvMtxSkOsJsWllvXL_x2I"
 ADMIN_USER_ID = 1690187708
