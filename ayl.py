@@ -10,10 +10,10 @@ from datetime import datetime, timedelta
 import threading
 
 # Configuration
-BOT_TOKEN = "8087790240:AAGUya8-iD-6NkO0RRgvtKrmlqr2e-ry1bI"
-ADMIN_USER_ID = 6310986425
+BOT_TOKEN = "7925127595:AAGQReL1FBeqsKNvMtxSkOsJsWllvXL_x2I"
+ADMIN_USER_ID = 1690187708
 API_BASE = f"https://api.telegram.org/bot{BOT_TOKEN}"
-CHANNEL_USERNAME = "@cpy_teel"  # Channel for membership verification
+CHANNEL_USERNAME = "@nyxmod"  # Channel for membership verification
 
 # Global variables to store bot state
 bot_state = {}
