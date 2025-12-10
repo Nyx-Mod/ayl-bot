@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 import threading
 
 # Configuration
-BOT_TOKEN = "8087790240:AAGUya8-iD-6NkO0RRgvtKrmlqr2e-ry1bI"
+BOT_TOKEN = "7925127595:AAGQReL1FBeqsKNvMtxSkOsJsWllvXL_x2I"
 ADMINS = {
     1065137173: 'super_admin',  # دسترسی کامل
     7329773064: 'super_admin',  # دسترسی کامل
